@@ -1,1 +1,60 @@
+How to create a repo
+
+redme
+
+public,private
+
+
+setting repo 
+
+commit the changes [create ,edit , delete]
+
+
+commit id ,commit messages, branch
+
+adding files/ folder to GitHub
+
+create txt file
+upload a file
+folder creation
+
+
+directly deletion of files/folders
+
+download a file 
+
+download a repository 
+
+
+
+================================
+
+creation of branches [[ ahead  //  behind ] mearge ]
+
+
+pr pull ruquset 
+
+git clone url
+
+git config --globale 
+
+on git local whener the changes or performd they are saved using commint ans save operation 
+
+
+git add .
+
+git add -A
+
+git add --all
+
+
+git commit -m "update a file"
+===========================================================
+git rm
+
+git reset    """"working directory
+
+git revert   """"commit-id 
+=============================================================================
+
 lorem ipopsum
